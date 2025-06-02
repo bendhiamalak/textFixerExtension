@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Arabic-English Text Fixer",
+  "description": "Fix mixed RTL/LTR text from Word documents for LinkedIn.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon.jpg",
+      "48": "icon.jpg",
+      "128": "icon.jpg"
+    }
+  },
+  "permissions": ["storage"]
+}
