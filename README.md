@@ -37,5 +37,4 @@ When writing a text that mixes **Arabic (RTL)** and **English (LTR)** in tools l
 ![Demo](./readmePhotos/3.png)
 ---
 
-## 📁 Project Structure
 
